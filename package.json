@@ -1,0 +1,21 @@
+{
+  "name": "s-expression",
+  "version": "1.0.0",
+  "description": "CLI based S-expression calculator",
+  "main": "app.js",
+  "bin": "bin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KDSGYT/s-expression-calculator.git"
+  },
+  "author": "KDSG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KDSGYT/s-expression-calculator/issues"
+  },
+  "homepage": "https://github.com/KDSGYT/s-expression-calculator#readme",
+  "dependencies": {}
+}
