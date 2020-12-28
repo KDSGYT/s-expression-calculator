@@ -17,5 +17,7 @@
     "url": "https://github.com/KDSGYT/s-expression-calculator/issues"
   },
   "homepage": "https://github.com/KDSGYT/s-expression-calculator#readme",
-  "dependencies": {}
+  "dependencies": {
+    "mathjs": "^8.1.0"
+  }
 }

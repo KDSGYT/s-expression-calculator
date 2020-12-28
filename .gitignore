@@ -1,5 +1,8 @@
 node_modules
 
+#misc
+package-lock.json
+
 ./s-expression-linux
 ./s-expression-macos
 ./s-expression-win.exe
